@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-alert('Rononoa Zoro');
-prompt('qual seu personagem?');
-let personagem = luffy;
-=======
 alert ('Rononoa Zoro');
-prompt ('Qual personagem vç mais gosta?');
->>>>>>> parent of 7a88864 (Revert "add prompt")
+let personagem = prompt('Qual personagem vç mais gosta?');
