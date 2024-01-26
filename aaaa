@@ -1,2 +1,3 @@
 alert('Rononoa Zoro');
 prompt('qual seu personagem?');
+let personagem = luffy;
