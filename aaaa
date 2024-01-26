@@ -1,1 +1,2 @@
-alert ('Rononoa Zoro');
+alert('Rononoa Zoro');
+prompt('qual seu personagem?');
